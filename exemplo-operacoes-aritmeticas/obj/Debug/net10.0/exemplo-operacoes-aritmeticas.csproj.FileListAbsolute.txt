@@ -1,0 +1,15 @@
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/bin/Debug/net10.0/exemplo-operacoes-aritmeticas
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/bin/Debug/net10.0/exemplo-operacoes-aritmeticas.deps.json
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/bin/Debug/net10.0/exemplo-operacoes-aritmeticas.runtimeconfig.json
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/bin/Debug/net10.0/exemplo-operacoes-aritmeticas.dll
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/bin/Debug/net10.0/exemplo-operacoes-aritmeticas.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.GeneratedMSBuildEditorConfig.editorconfig
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.AssemblyInfoInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.AssemblyInfo.cs
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.csproj.CoreCompileInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.sourcelink.json
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.dll
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/refint/exemplo-operacoes-aritmeticas.dll
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/exemplo-operacoes-aritmeticas.genruntimeconfig.cache
+/home/fratel/dirdev/learn/csharp/exemplo-operacoes-aritmeticas/obj/Debug/net10.0/ref/exemplo-operacoes-aritmeticas.dll
