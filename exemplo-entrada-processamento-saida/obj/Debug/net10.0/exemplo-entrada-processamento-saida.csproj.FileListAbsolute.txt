@@ -1,0 +1,15 @@
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/bin/Debug/net10.0/exemplo-entrada-processamento-saida
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/bin/Debug/net10.0/exemplo-entrada-processamento-saida.deps.json
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/bin/Debug/net10.0/exemplo-entrada-processamento-saida.runtimeconfig.json
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/bin/Debug/net10.0/exemplo-entrada-processamento-saida.dll
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/bin/Debug/net10.0/exemplo-entrada-processamento-saida.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.GeneratedMSBuildEditorConfig.editorconfig
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.AssemblyInfoInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.AssemblyInfo.cs
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.csproj.CoreCompileInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.sourcelink.json
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.dll
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/refint/exemplo-entrada-processamento-saida.dll
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/exemplo-entrada-processamento-saida.genruntimeconfig.cache
+/home/fratel/dirdev/learn/csharp/exemplo-entrada-processamento-saida/obj/Debug/net10.0/ref/exemplo-entrada-processamento-saida.dll
