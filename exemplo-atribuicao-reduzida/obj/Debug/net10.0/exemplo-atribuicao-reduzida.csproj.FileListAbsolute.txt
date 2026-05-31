@@ -1,0 +1,15 @@
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/bin/Debug/net10.0/exemplo-atribuicao-reduzida
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/bin/Debug/net10.0/exemplo-atribuicao-reduzida.deps.json
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/bin/Debug/net10.0/exemplo-atribuicao-reduzida.runtimeconfig.json
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/bin/Debug/net10.0/exemplo-atribuicao-reduzida.dll
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/bin/Debug/net10.0/exemplo-atribuicao-reduzida.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.GeneratedMSBuildEditorConfig.editorconfig
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.AssemblyInfoInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.AssemblyInfo.cs
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.csproj.CoreCompileInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.sourcelink.json
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.dll
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/refint/exemplo-atribuicao-reduzida.dll
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/exemplo-atribuicao-reduzida.genruntimeconfig.cache
+/home/fratel/dirdev/learn/csharp/exemplo-atribuicao-reduzida/obj/Debug/net10.0/ref/exemplo-atribuicao-reduzida.dll

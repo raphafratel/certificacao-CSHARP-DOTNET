@@ -1,0 +1,15 @@
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/bin/Debug/net10.0/exemplo-estrutura-de-controle-if
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/bin/Debug/net10.0/exemplo-estrutura-de-controle-if.deps.json
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/bin/Debug/net10.0/exemplo-estrutura-de-controle-if.runtimeconfig.json
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/bin/Debug/net10.0/exemplo-estrutura-de-controle-if.dll
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/bin/Debug/net10.0/exemplo-estrutura-de-controle-if.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.GeneratedMSBuildEditorConfig.editorconfig
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.AssemblyInfoInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.AssemblyInfo.cs
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.csproj.CoreCompileInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.sourcelink.json
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.dll
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/refint/exemplo-estrutura-de-controle-if.dll
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/exemplo-estrutura-de-controle-if.genruntimeconfig.cache
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-if/obj/Debug/net10.0/ref/exemplo-estrutura-de-controle-if.dll
