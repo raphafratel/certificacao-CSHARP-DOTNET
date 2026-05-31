@@ -1,0 +1,15 @@
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/bin/Debug/net10.0/exemplo-estrutura-de-controle-switch_case
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/bin/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.deps.json
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/bin/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.runtimeconfig.json
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/bin/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.dll
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/bin/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.AssemblyInfoInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.AssemblyInfo.cs
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.csproj.CoreCompileInputs.cache
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.sourcelink.json
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.dll
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/refint/exemplo-estrutura-de-controle-switch_case.dll
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.pdb
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/exemplo-estrutura-de-controle-switch_case.genruntimeconfig.cache
+/home/fratel/dirdev/learn/csharp/exemplo-estrutura-de-controle-switch_case/obj/Debug/net10.0/ref/exemplo-estrutura-de-controle-switch_case.dll

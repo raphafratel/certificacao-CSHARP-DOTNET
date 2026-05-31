@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exemplo-atribuicao-reduzida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc052dce5295c58f186886e185848843ff33d5de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+924901c5f934dbd9058dd027768f301ee6549b40")]
 [assembly: System.Reflection.AssemblyProductAttribute("exemplo-atribuicao-reduzida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exemplo-atribuicao-reduzida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

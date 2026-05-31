@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "exemplo-estrutura-de-controle-switch_case/1.0.0": {
+        "runtime": {
+          "exemplo-estrutura-de-controle-switch_case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemplo-estrutura-de-controle-switch_case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
