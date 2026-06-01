@@ -1,0 +1,15 @@
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/bin/Debug/net10.0/controle-de-acesso
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/bin/Debug/net10.0/controle-de-acesso.deps.json
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/bin/Debug/net10.0/controle-de-acesso.runtimeconfig.json
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/bin/Debug/net10.0/controle-de-acesso.dll
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/bin/Debug/net10.0/controle-de-acesso.pdb
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.GeneratedMSBuildEditorConfig.editorconfig
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.AssemblyInfoInputs.cache
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.AssemblyInfo.cs
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.csproj.CoreCompileInputs.cache
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.sourcelink.json
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.dll
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/refint/controle-de-acesso.dll
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.pdb
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/controle-de-acesso.genruntimeconfig.cache
+/home/fratel/dirdev/learn/csharp/controle-de-acesso/obj/Debug/net10.0/ref/controle-de-acesso.dll
